@@ -1,5 +1,5 @@
 body{
-    background-color: #373a3c;
+    background-color: rgb(247, 244, 244);
 }
 
 .logo{
@@ -19,12 +19,12 @@ body{
 
 .header-title{
     color: whitesmoke;
-    text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+    text-shadow: 4px 2px 4px rgba(193, 143, 239, 0.83);
 }
 .subtitle-header{
 font-size: 1.8em;
     color: black;
-    text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+    text-shadow: 4px 2px 4px rgba(193, 143, 239, 0.83);
 }
 .btn-morado{
     background-color: rgb(235, 159, 252);
@@ -46,8 +46,8 @@ font-size: 1.8em;
     }
 }
 .accordion{
-    --bs-accordion-active-color: rgba(143,62,218,0.83);
-    --bs-accordion-active-bg: #d99a71ba;
+    --bs-accordion-active-color: rgba(188, 139, 234, 0.83);
+    --bs-accordion-active-bg: #eec0f6ba;
 }
 .accordion-button{
     background-color: #a218f952;
@@ -63,7 +63,7 @@ font-size: 1.8em;
 }
 hr {
     margin: 1rem 0;
-    color: #d0b1f8;
+    color: #706e71;
     border: 0;
     border-top: var(--bs-border-width) solid;
     opacity: inherit;
@@ -76,7 +76,7 @@ hr {
 }
 #Contacto form label {
     font-weight: 700;
-    color: #373a3c;
+    color: #9da1a4;
   }
   .redes{
     /* border:1px solid red; */
